@@ -1,4 +1,4 @@
-### Opa, eu sou o Felipe!
+### Opa, eu sou o Felipe! Seja bem vindo ao meu perfil!
   
   ##
   
