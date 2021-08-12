@@ -1,16 +1,17 @@
-### Hi there 👋
+### Opa, sou o Felipe!
+  
+  ##
+  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Laskos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Laskos&langs_count=7&theme=dark" align="right"/>
+</div>
 
-<!--
-**Felipe-Laskos/Felipe-Laskos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60" width="50" align="right"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="60" width="70" align="right"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="60" width="70" align="right"/>
+      <img src="https://66.media.tumblr.com/tumblr_mairkuw6QB1rfjowdo1_500.gif" width="400px" align="left"/>
+</div>
