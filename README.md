@@ -3,8 +3,6 @@ Olá! Eu sou o **Felipe Laskos** e tenho 16 anos. Comecei a aprender programaç�
   
   # https://felipe-laskos.github.io/podpato/
 
-  # https://podpato.herokuapp.com
-
   
 <div>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Felipe-Laskos&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
