@@ -1,9 +1,7 @@
 Olá! Eu sou o **Felipe Laskos** e tenho 16 anos. Comecei a aprender programação em 2021 através do **programa edu-tech**, que me proporcionou conhecimentos na área do **front-end**, depois através de videos e pesquisas aprendi um pouco do **back-end e banco de dados MongoDB com o Node.js**, atualmente estou aprendendo **react** e a linguagem **python**!
   ##
   
-  # https://felipe-laskos.github.io/podpato/
-  
-  # https://podpato.onrender.com
+  # https://felipe-laskos.vercel.app/
 
   
 <div>
