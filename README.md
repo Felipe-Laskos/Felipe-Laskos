@@ -11,12 +11,12 @@ Olá! Eu sou o **Felipe Laskos** e tenho 16 anos. Comecei a aprender programaç�
 
   ##
 
-<div style="display: flex"><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50" align="right"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="50" align="right"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="60" width="50" align="right"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60" width="50" align="right"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="60" width="70" align="right"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="60" width="70" align="right"/>
+<div style="display: inline_block"><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50" align="center"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="50" align="center"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="60" width="50" align="center"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60" width="50" align="center"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="60" width="70" align="center"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="60" width="70" align="center"/>
       <img src="https://66.media.tumblr.com/tumblr_mairkuw6QB1rfjowdo1_500.gif" width="400px" align="left"/>
 </div>
