@@ -11,7 +11,7 @@ Olá! Eu sou o **Felipe Laskos** e tenho 16 anos. Comecei a aprender programaç�
 
   ##
 
-<div style="display: flex;justify_content: space_between;"><br>
+<div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="60" width="50"/>
