@@ -12,9 +12,9 @@ Olá! Eu sou o **Felipe Laskos** e tenho 16 anos. Comecei a aprender programaç�
   ##
 
 <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="50"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="60" width="50"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50" align="left"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="50" align="left"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="60" width="50" align="left"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60" width="50" align="right"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="60" width="50" align="right"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="60" width="50" align="right"/>
