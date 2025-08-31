@@ -1,4 +1,4 @@
-Olá! Eu sou o **Felipe Laskos**! Comecei a aprender programação em 2021 através do **programa edu-tech**, que me proporcionou conhecimentos na área do **front-end**, depois através de vídeos e pesquisas aprendi um pouco do **back-end e banco de dados MongoDB com o Node.js**. Atualmente estudando ADS na faculdade e desenvolvendo projetos para aprendizado. Gosto de aprender coisas novas e me adapto em diferentes ambientes, trabalhando em equipe e sempre entregando o meu melhor nas minhas atividades.
+Olá, meu nome é Felipe! Apaixonado por tecnologia, tive a oportunidade de participar do programa **Edu-Tech**, onde adquiri meus primeiros conhecimentos em desenvolvimento de sistemas e web. Atualmente curso **Análise e Desenvolvimento de Sistemas** e atuo como estagiário na área, sempre buscando consolidar e expandir meus aprendizados por meio de projetos práticos. Gosto de aprender coisas novas e me adapto em diferentes ambientes, trabalhando em equipe e sempre entregando o meu melhor nas minhas atividades.
   ##
   
   # https://felipe-laskos.vercel.app/
