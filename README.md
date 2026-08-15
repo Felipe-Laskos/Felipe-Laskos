@@ -3,8 +3,7 @@ Olá, meu nome é Felipe! Apaixonado por tecnologia, tive a oportunidade de part
   
   # https://felipe-laskos.vercel.app/
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Felipe-Laskos)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight)](https://git.io/streak-stats)
 
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="50" align="left"/>
