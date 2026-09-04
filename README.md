@@ -24,7 +24,13 @@ project.
   <img height="40" width="40" alt="RabbitMQ" title="RabbitMQ" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </p>
 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=default">
+    <img alt="GitHub streak" src="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight">
+  </picture>
+</a>
 
 ### Elsewhere
 
