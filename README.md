@@ -1,18 +1,13 @@
-## Felipe Laskos
-
 Full stack developer in Curitiba, Brazil.
 
-At **NEX Energy** I build services for Brazil's deregulated energy market — the kind of
-system where a wrong number is somebody's electricity bill. Elixir and Phoenix on the
-back end, TypeScript on the front, PostgreSQL underneath, Docker around it. I joined as
-an intern in March 2025 and stayed on the team.
+I work across Elixir and Phoenix, Java and Spring Boot, and TypeScript on the front, over
+PostgreSQL and Docker. Day to day that means production problems: data, APIs,
+integrations, background jobs, and the technical decisions that come with them.
 
-I started in front-end, went looking for what happened behind the screen, and stayed for
-the back end: schema design, transaction boundaries, and the boring correctness nobody
-notices when it's right.
-
-**Now** — build and CI pipelines for a microservices repo · distributed systems and Go ·
-writing weekly notes on what I learn
+Most of what I build in the open is Spring: eight services across the repositories below,
+on Spring Data JPA and MongoDB, Spring Security and JWT, with RabbitMQ carrying anything
+that shouldn't happen inside a request. Angular or React on the front, depending on the
+project.
 
 ### Stack
 
