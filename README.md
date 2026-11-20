@@ -26,9 +26,18 @@ project.
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=default">
-    <img alt="GitHub streak" src="https://streak-stats.vercel.app/?user=Felipe-Laskos&theme=tokyonight">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=Felipe-Laskos&theme=tokyonight"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=Felipe-Laskos&theme=default"
+    />
+    <img
+      alt="GitHub streak"
+      src="https://streak-stats.demolab.com/?user=Felipe-Laskos&theme=tokyonight"
+    />
   </picture>
 </a>
 
